@@ -7,9 +7,15 @@ Projeto lançado pelo professor Gerhard Sabóia em um hackathon na faculdade CDL
 </div>
 
 #
-Questão 1: <br>
+Desafio 1: <br>
+Faça um programa que calcula o dobro de um número. O programa 
+deve conter uma classe chamada Dobro contendo o método 
+calcularDobro. Uma classe principal que testa a classe dobro.
+.OBS: Não deve ser criado um objeto da classe Dobro.<br>
 #
-Questão 2: <br>
+Desafio 2: <br>
+Faça um programa que crie uma classe chamada Adição e demonstre 
+por sobrecarga a adição de números inteiros e adição de números reais<br>
 #
-Questão 3: <br>
+Questão 3: <br>Faca um programa em Java que calcula os salários de um funcionário CLT e de um Comissionado. Sabe-se que o CLT recebe apenas o salário mínimo de R$1212.00 e do Comissionado e’ salário mínimo + comissão(5% das vendas)<br>
 #
